@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Fri May 15 23:59:30 COT 2020:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance a816c00e-0172-1bd9-fb36-00000bcb1670 
+on database directory C:\Users\GAR\MyDB with class loader sun.misc.Launcher$AppClassLoader@2b193f2d 
+Loaded from file:/C:/Users/GAR/Documents/DB/db-derby-10.14.2.0-bin/lib/derby.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_251-b08
+user.dir=C:\Users\GAR\Desktop\Per\U\U 2020-1\ingesoft\TallerDBPU\LoginApplication
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
